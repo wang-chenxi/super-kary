@@ -6,6 +6,6 @@
 
 * Team members: Chenxi Wang, Richard Liu
 
-<a href="https://wang-chenxi.github.io/super-kary/">Start the adventure with Kary now!</a>
+## <a href="https://wang-chenxi.github.io/super-kary/">Start the adventure with Kary now!</a>
 
 <img src="assets/introduction.jpg">
